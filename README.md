@@ -25,7 +25,7 @@ if [ "$2" == "--jadx" ] || [ "$2" == "-j" ]
 fi
 ```
 
-CSLRF (Windows Line endings)
+CRLF (Windows Line endings)
 
 ```bash
 #! /bin/bash
